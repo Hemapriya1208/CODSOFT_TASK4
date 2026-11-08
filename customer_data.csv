@@ -1,0 +1,31 @@
+Customer_ID,Age,Gender,Location,Purchase_Frequency,Total_Purchases,Total_Spending,Average_Order_Value,Product_Category
+C001,22,Female,Chennai,8,10,7200,720,Electronics
+C002,35,Male,Bengaluru,5,6,14500,2417,Fashion
+C003,41,Female,Chennai,12,15,28600,1907,Grocery
+C004,28,Male,Hyderabad,4,5,8200,1640,Electronics
+C005,52,Female,Mumbai,10,12,35400,2950,Home Appliances
+C006,19,Male,Chennai,3,4,4500,1125,Fashion
+C007,45,Female,Delhi,9,11,27800,2527,Electronics
+C008,33,Male,Bengaluru,7,8,16800,2100,Grocery
+C009,61,Female,Mumbai,6,7,31200,4457,Home Appliances
+C010,26,Female,Hyderabad,11,13,22100,1700,Beauty
+C011,38,Male,Chennai,14,17,42500,2500,Electronics
+C012,47,Female,Delhi,5,6,13200,2200,Fashion
+C013,24,Male,Pune,4,5,7600,1520,Grocery
+C014,56,Female,Mumbai,8,10,29800,2980,Home Appliances
+C015,31,Male,Bengaluru,6,7,15400,2200,Fashion
+C016,42,Female,Chennai,15,18,48200,2678,Electronics
+C017,29,Male,Pune,3,4,6900,1725,Beauty
+C018,67,Female,Delhi,7,8,26500,3313,Home Appliances
+C019,36,Male,Hyderabad,9,11,24900,2264,Electronics
+C020,23,Female,Chennai,13,16,31600,1975,Grocery
+C021,49,Male,Mumbai,5,6,11800,1967,Fashion
+C022,54,Female,Bengaluru,10,12,33700,2808,Electronics
+C023,27,Male,Pune,6,7,14100,2014,Beauty
+C024,39,Female,Chennai,16,19,52300,2753,Home Appliances
+C025,58,Male,Delhi,8,9,29100,3233,Electronics
+C026,21,Female,Hyderabad,4,5,6100,1220,Fashion
+C027,44,Male,Mumbai,11,14,38200,2729,Grocery
+C028,32,Male,Bengaluru,7,8,17600,2200,Beauty
+C029,63,Female,Chennai,9,10,33400,3340,Home Appliances
+C030,37,Male,Pune,12,15,27100,1807,Electronics
